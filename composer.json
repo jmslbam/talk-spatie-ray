@@ -1,0 +1,18 @@
+{
+    "name": "jmslbam/talk-spatie-ray",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Jmslbam\\TalkSpatieRay\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jaime Martínez",
+            "email": "info@jaimemartinez.nl"
+        }
+    ],
+    "require": {
+        "jmslbam/ray-php-errors": "^1.1"
+    }
+}

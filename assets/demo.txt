@@ -1,0 +1,1 @@
+ray()->file() Geeft de inhoud terug van het demo.txt bestand!

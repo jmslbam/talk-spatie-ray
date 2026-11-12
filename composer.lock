@@ -1,0 +1,59 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "320fd1bb54cc806fd081434884825351",
+    "packages": [
+        {
+            "name": "jmslbam/ray-php-errors",
+            "version": "v1.1.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/jmslbam/ray-php-errors.git",
+                "reference": "c0def496c34882bfd6b015096536572e7cd07d74"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/jmslbam/ray-php-errors/zipball/c0def496c34882bfd6b015096536572e7cd07d74",
+                "reference": "c0def496c34882bfd6b015096536572e7cd07d74",
+                "shasum": ""
+            },
+            "require-dev": {
+                "laravel/pint": "^1.21"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "JMSLBAM\\RayPHPErrors\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Jaime Martínez",
+                    "email": "public@jaimemartinez.nl"
+                }
+            ],
+            "description": "Pushes errors that normally would go into the 'debug.log' to Spatie's Ray debugger",
+            "support": {
+                "issues": "https://github.com/jmslbam/ray-php-errors/issues",
+                "source": "https://github.com/jmslbam/ray-php-errors/tree/v1.1.1"
+            },
+            "time": "2025-06-20T22:29:53+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {},
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {},
+    "platform-dev": {},
+    "plugin-api-version": "2.9.0"
+}
