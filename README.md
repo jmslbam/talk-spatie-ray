@@ -2,4 +2,6 @@
 
 Donderdag 12 November 2026 @ WordCamp Nederland
 
-Fatal error afvangen naar Spatie Ray: https://github.com/jmslbam/ray-php-errors
+Slide & video: https://jaimemartinez.nl/talks/#2026
+
+Fatal error afvangen naar Spatie Ray via extra package: https://github.com/jmslbam/ray-php-errors
